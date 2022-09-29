@@ -2,7 +2,6 @@
 
 currentDir=`pwd`
 home=~
-
 if [ $currentDir == $home ]
 then
     echo $currentDir
